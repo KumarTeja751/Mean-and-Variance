@@ -46,9 +46,12 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
-## Developed By: NARAMALA KUMARTEJA 
-## Reference No: 212223230132
+
 # Program :
+```python
+DEVELOPED BY : NARAMALA KUMARTEJA
+REGISTER NO : 212223230132
+```
 ```python
 import numpy as np
 L=[int(i) for i in input().split()]
